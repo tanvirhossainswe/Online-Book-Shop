@@ -28,7 +28,7 @@ if(isset($message)){
    <!-- for Brand name -->
    <div class="header-2">
       <div class="flex">
-         <a href="home.php" class="logo">BookStore By Tanvir</a>
+         <a href="home.php" class="logo">BoiBazar</a>
 
          <nav class="navbar">
             <a href="home.php">Home</a>
